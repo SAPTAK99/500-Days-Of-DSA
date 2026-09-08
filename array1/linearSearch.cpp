@@ -19,7 +19,7 @@ int main(){
         }
 }
 
-        if(found=true){
+        if(found==true){
             cout<<"Element is present in the array.";
         }else{
             cout<<"Element is not present in the array.";
